@@ -1,0 +1,33 @@
+body { 
+	font-family: 'Merriweather Sans', sans-serif; 
+	padding: 5px 25px;
+}
+h1, h2 {
+	color: #000;
+	font-weight: 700;
+}
+h1 { 
+	font-size: 24px;
+}
+h2 { 
+	font-size: 16px;
+	margin-bottom: 7px;
+}
+body, p, ul, li {
+	font-size: 13px;
+	color: #666;
+	line-height: 20px;
+	font-weight: 300;
+	margin-top: 0px;
+}
+ul {
+	padding-left: 25px;
+}
+p strong, strong {
+	color: #333;
+}
+hr { 
+	height:0px;
+	border: none;
+	border-bottom: 1px dashed #ccc;
+}
